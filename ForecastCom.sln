@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForecastCom", "ForecastCom\ForecastCom.csproj", "{BEDDCA31-E4D8-4393-A6D5-68C46C156743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForecastComTests", "ForecastComTests\ForecastComTests.csproj", "{45A2A091-78F4-4433-8363-B30E9E57F825}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ForecastComSetup", "ForecastComSetup\ForecastComSetup.vdproj", "{0F2EA872-A9A6-4B0C-A7AC-8ED32F8032CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEDDCA31-E4D8-4393-A6D5-68C46C156743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDDCA31-E4D8-4393-A6D5-68C46C156743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDDCA31-E4D8-4393-A6D5-68C46C156743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDDCA31-E4D8-4393-A6D5-68C46C156743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A2A091-78F4-4433-8363-B30E9E57F825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A2A091-78F4-4433-8363-B30E9E57F825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A2A091-78F4-4433-8363-B30E9E57F825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A2A091-78F4-4433-8363-B30E9E57F825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2EA872-A9A6-4B0C-A7AC-8ED32F8032CD}.Debug|Any CPU.ActiveCfg = Debug
+		{0F2EA872-A9A6-4B0C-A7AC-8ED32F8032CD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

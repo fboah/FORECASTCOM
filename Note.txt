@@ -1,0 +1,10 @@
+
+25/07/2022=======================
+
+Après le crash ,j'ai donc du aménagé le code pour gérer les nouveaux problemes
+
+
+
+Nouvelle gestion Installée le 04012020
+
+Ct_DateCreate de F_COMPTET n'existe plus
